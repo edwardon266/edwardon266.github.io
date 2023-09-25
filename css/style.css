@@ -883,7 +883,7 @@ a:hover {
 	z-index: 9999;
 }
 #status {
-	background-image: url(../images/agency_01/preloader.gif);
+	background-image: url(../images/doctor_01/preloader.gif);
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 200px;
@@ -894,7 +894,7 @@ a:hover {
 	width: 200px;
 }
 .status-mes {
-	background-image: url(../images/agency_01/preloader.gif);
+	background-image: url(../images/doctor_01/preloader.gif);
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 200px;
