@@ -10926,7 +10926,7 @@ button:focus {
 	margin-bottom: 20px;
 }
 .doc_about_content_wrapper p {
-	width: 475px;
+	width: 100%;
 	font-size: 20px;
 	line-height: 30px;
 	margin-bottom: 20px;
